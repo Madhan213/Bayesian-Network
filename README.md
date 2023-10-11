@@ -34,8 +34,8 @@ Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ```
-Developed By : Pragatheesvaran AB
-Reg. No : 212221240039
+Developed By : Madhan S
+Reg. No : 212221040091
 ```
 ### Import the necessary Libaries
 
